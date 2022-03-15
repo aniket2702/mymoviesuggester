@@ -1,0 +1,2 @@
+This project uses text vectorization to predict similar movies from a pool of 5000+ movies in the training database.
+Here, the user can choose a movie from those 5000+ movies and then will be recommended with 7 other movies with similar generes, cast, directors and movie tags.
